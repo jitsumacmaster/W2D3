@@ -1,0 +1,4 @@
+gem "byebug"
+gem "rspec"
+gem "pry"
+gem 'activesupport'

@@ -1,0 +1,28 @@
+body {
+  font-family : Arial,sans-serif;
+  background-color: aquamarine;
+  line-height:  1.5cm;
+  color: red;
+}
+
+h1 {
+  font-size : 38px
+}
+
+h2 {
+  font-size : 32px
+}
+
+.ingredients {
+  color : red; 
+}
+
+
+
+ul li  {
+    list-style : square inside; /* This assures the a elements are not underlined */
+}
+
+#logo {
+    width: 800px;
+}
